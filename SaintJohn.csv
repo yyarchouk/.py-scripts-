@@ -2,3 +2,13 @@ host_id,ip_address,mac_address,manufacturer
 1,10.238.97.8,001a.a0aa.cc75,Dell Inc.
 2,10.238.97.16,f4d1.08ff.1853,Intel Corporate
 3,10.238.97.17,f4d4.88cd.6742,Apple Inc.
+
+10.196.58.5,001a.a0aa.cd75,Dell Inc. 
+10.196.58.57,f4d1.08ff.1753,Intel Corporate
+10.196.58.58,f4d4.88cd.6722,Apple, Inc.  
+10.196.58.59,f4e3.fbad.cf34,Huawei Technologies Co.,Ltd
+10.196.58.60,001a.11a8.70e0,Google, Inc.   
+10.196.58.61,f49f.5472.4739,Samsung Electronics Co.,Ltd   
+10.196.58.245,f481.390c.b7e9,Canon Inc.     
+10.196.58.246,0001.6434.a0ec,Cisco Systems, Inc    
+10.196.58.247,0000.0878.d81d,Xerox Corporation   
